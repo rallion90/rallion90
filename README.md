@@ -2,50 +2,58 @@
 
 <div align="center">
 
-### Full Stack Web Developer | WordPress Engineer | Real-Time Systems Developer
+### Full Stack Web Developer | WordPress Developer | Real-Time Systems
 
-Building scalable web applications, real-time sports platforms, and modern WordPress ecosystems using PHP, JavaScript, Laravel, and Docker.
+I build web applications, modern WordPress systems, and real-time platforms. I enjoy turning complicated problems into simple, useful solutions.
 
 🌍 Based in Dubai, UAE  
-🚀 Passionate about performance, UI/UX, and scalable architecture
+💻 PHP, Laravel, JavaScript, React, and WordPress  
+☕ Usually debugging something... or making coffee while debugging.
 
-[🌐 Portfolio Website](https://rallion90.github.io/myPortfolio) • [💻 GitHub](https://github.com/rallion90)
+[🌐 Portfolio Website](https://rallion90.github.io/myPortfolio) • [💻 GitHub](https://github.com/rallion90) • [🔗 LinkedIn](https://www.linkedin.com/in/ralph-rallion-laynes-b175a5171/)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 A Little About Me
 
-I'm a Full Stack Web Developer with experience building:
+I'm a Full Stack Web Developer from the Philippines, currently working in Dubai. I have around 6 years of experience building websites, web applications, and custom systems.
 
-- ⚡ Real-time sports streaming & live score platforms
-- 🏗 Modern WordPress architectures using Bedrock + Sage + Acorn
-- 🔥 Reactive frontend systems with Alpine.js & Livewire
+My work includes Laravel platforms, WordPress themes and plugins, real-time sports websites, and AI-powered tools. I like working on both the frontend and backend, especially when a project needs good performance and a clean user experience.
+
+Outside of regular development, I enjoy learning about cybersecurity, exploring new technologies, and building projects that challenge me.
+
+**Things I enjoy working on:**
+
+- ⚡ Real-time systems and live data
+- 🏗️ Modern WordPress with Bedrock, Sage, and Acorn
+- 🎨 Clean, responsive interfaces
+- 🔌 APIs and third-party integrations
 - 🐳 Dockerized development environments
-- 📡 REST APIs & MQTT-based real-time systems
-- 🎨 Dynamic UI/UX systems with TailwindCSS & Vite
-- 🛡 Malware detection & web security research
-
-I enjoy solving complex technical problems, optimizing performance, and creating clean developer-friendly systems.
+- 🛡️ Web security and malware analysis
+- 🤖 AI integrations and useful automation
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## Backend
+### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### WordPress Ecosystem
+
 ![Bedrock](https://img.shields.io/badge/Bedrock-525DDC?style=for-the-badge&logo=roots&logoColor=white)
 ![Sage](https://img.shields.io/badge/Sage-525DDC?style=for-the-badge&logo=roots&logoColor=white)
 ![Acorn](https://img.shields.io/badge/Acorn-525DDC?style=for-the-badge&logo=roots&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Frontend / Full Stack
+### Frontend / Full Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,7 +66,7 @@ I enjoy solving complex technical problems, optimizing performance, and creating
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-## DevOps & Tools
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -67,108 +75,98 @@ I enjoy solving complex technical problems, optimizing performance, and creating
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Other Technologies
-- MQTT
-- Real-time Systems
-- API Integrations
-- SEO Optimization
-- Malware Analysis
-- Performance Optimization
+### Other Skills
+
+`MQTT` `API Integrations` `SEO` `Malware Analysis` `Performance Optimization` `AI Integrations`
 
 ---
-## Certifications
+
+## 🏅 Certifications
 
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
----
 
-# 💼 Featured Projects
-
-## ⚽ Modern Sports Platform
-
-A highly reactive sports streaming and live score ecosystem with:
-
-- Real-time match updates via MQTT
-- Reactive scoreboards
-- Dynamic odds system
-- Match timeline rendering
-- REST API architecture
-- Optimized frontend rendering
-
-### Technologies Used
-`WordPress` `PHP` `Alpine.js` `Livewire` `MQTT` `TailwindCSS`
+I enjoy learning how systems work, how they break, and how to make them more secure.
 
 ---
 
-## 📚 ARABmetricscore
+## 💼 Featured Projects
 
-A Laravel-powered academic indexing platform designed for Arab countries.
+### ⚽ Modern Sports Platform
 
-### Features
+A live sports and streaming platform built with a modern WordPress architecture. It handles match data, live scores, and interactive frontend components.
+
+**What I worked on:**
+
+- Real-time match updates using MQTT
+- Live scoreboards and match timelines
+- Custom REST API integrations
+- Dynamic odds and match information
+- Performance improvements and frontend rendering
+- Custom WordPress themes and plugins
+
+**Tech:** `WordPress` `PHP` `Bedrock` `Sage` `Acorn` `Alpine.js` `Livewire` `MQTT` `Tailwind CSS`
+
+---
+
+### 📚 ARABmetricscore
+
+An academic indexing platform built with Laravel, designed to help organize and improve the visibility of scholarly research.
+
+**What it includes:**
+
 - Research paper indexing
 - Citation analytics
-- Structured scholarly data
+- Structured academic data
 - DOI integrations
-- Academic visibility enhancement
+- Tools for managing scholarly information
 
-### Technologies Used
-`Laravel` `PHP` `MySQL` `REST APIs`
+**Tech:** `Laravel` `PHP` `MySQL` `REST APIs`
 
 ---
 
-## 🛡 WP Malware Scanner
+### 🛡️ WP Malware Scanner
 
-An OOP-based WordPress malware scanning plugin.
+A custom WordPress plugin that helps detect suspicious files and code. It combines traditional scanning with AI-assisted analysis.
 
-### Features
-- Plugin & upload scanning
+**What it includes:**
+
+- Plugin and upload scanning
 - Suspicious code detection
-- AI-powered assessments
 - Background scan processing
-- Admin dashboard integration
+- AI-assisted assessments
+- WordPress admin dashboard
 
-### Technologies Used
-`PHP` `WordPress` `JavaScript`
-
----
-
-# 📈 What I Focus On
-
-- Clean architecture
-- Reactive user interfaces
-- Performance optimization
-- Real-time systems
-- Developer experience
-- Security research
-- Scalable WordPress development
+**Tech:** `PHP` `WordPress` `JavaScript` `AI APIs`
 
 ---
 
-# 🧠 Currently Exploring
+## 🧠 What I'm Learning
 
-- Advanced Livewire integrations in WordPress
-- Real-time infrastructures
-- Cybersecurity & threat intelligence
-- High-performance frontend systems
-- Large-scale WordPress architectures
+I believe a developer should never stop learning. Right now, I'm spending more time on:
 
----
+- Advanced Laravel and database concepts
+- Real-time architecture and concurrency
+- Cybersecurity and threat intelligence
+- AI, RAG, and tool calling
+- Building faster and more maintainable applications
 
-# 📫 Contact Me
-
-- 🌐 Portfolio: https://rallion90.github.io/myPortfolio
-- 💻 GitHub: https://github.com/rallion90
+Sometimes the best way to learn is to build something, break it, and figure out why it broke. 😄
 
 ---
 
-# ⚡ Fun Fact
+## 📫 Let's Connect
 
-I enjoy combining modern Laravel-style development practices with WordPress to create scalable and maintainable systems.
+I'm always happy to connect with other developers, talk about interesting projects, or explore new opportunities.
+
+[🌐 Visit My Portfolio](https://rallion90.github.io/myPortfolio) • [💻 GitHub](https://github.com/rallion90) • [🔗 LinkedIn](https://www.linkedin.com/in/ralph-rallion-laynes-b175a5171/)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 🚀
+### Thanks for stopping by! 👋
+
+*Keep building. Keep learning. And don't forget to commit your code.*
 
 </div>
